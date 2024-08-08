@@ -1,6 +1,6 @@
 export default function DescSection() {
   return (
-    <section className="grid grid-cols-[4fr_3fr] px-[16%] pt-24 pb-56 desc-background m-0">
+    <section className="grid grid-cols-[4fr_3fr] px-[16%] pt-24 pb-56 desc-background m-0 gap-4">
       <div className="flex flex-col gap-10 self-center">
         <h1 className="font-arealMT text-5xl w-[28rem]">
           Look, up in the <span className="text-[#34AAFF]">sky</span>, it’s your
