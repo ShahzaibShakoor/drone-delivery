@@ -19,6 +19,7 @@ html {
 
   /* 10px / 16px = 0.625 = 62.5% */
   /* Percentage of user's browser font-size setting */
+  font-size: 10px;
   overflow-x: hidden;
 
   /* Does NOT work on Safari */
